@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "301592181514",
+    "project_id": "my-glow-app-888",
+    "storage_bucket": "my-glow-app-888.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301592181514:android:ba394b7cb26ee4cf74d8f3",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBb025gpBMxMtnNalxd_SiItim0FWAwOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

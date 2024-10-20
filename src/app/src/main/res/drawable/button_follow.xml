@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <!-- 按钮的背景颜色 -->
+            <solid android:color="@color/white"/>
+            <!-- 按钮的边框颜色和宽度 -->
+            <stroke
+                android:width="2dp"
+                android:color="@color/white" />
+            <!-- 按钮的圆角大小 -->
+            <corners android:radius="100dp" />
+        </shape>
+    </item>
+</selector>

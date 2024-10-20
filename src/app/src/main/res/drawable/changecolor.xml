@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:startColor="#B2DFDB"
+    android:endColor="#EEFFF9C4"
+    android:angle="45"/>          <!-- 渐变角度 -->
+    <corners android:radius="0dp"/>  <!-- 圆角大小 -->
+</shape>
